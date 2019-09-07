@@ -1,0 +1,4 @@
+#Mon Jul 15 13:17:42 BDT 2019
+base.0=C\:\\Users\\Apple\\Desktop\\Bspi\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

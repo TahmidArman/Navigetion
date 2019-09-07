@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Apple\\Desktop\\Bspi\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Apple\\.gradle\\caches\\transforms-2\\files-2.1\\78ee1ae869ab31d50c32a8671fab1eb8\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Apple\\.gradle\\caches\\transforms-2\\files-2.1\\d59931cd8cb2d1f0b5e13f90b6109f0e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

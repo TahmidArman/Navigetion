@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jul 14 22:42:30 BDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Apple\\Desktop\\Bspi\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

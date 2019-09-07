@@ -1,0 +1,4 @@
+#Sun Jul 14 22:42:30 BDT 2019
+base.0=C\:\\Users\\Apple\\Desktop\\Bspi\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
